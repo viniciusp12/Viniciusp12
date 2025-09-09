@@ -1,3 +1,14 @@
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Viniciusp12&theme=highcontrast&hide_border=true" 
+       alt="Streak de contribuições"
+       style="background-image: url('https://raw.githubusercontent.com/Viniciusp12/Viniciusp12/main/imagens/fundo-vermelho.png'); 
+              background-size: cover; 
+              border-radius: 10px; 
+              padding: 10px;">
+</div>
+
+---
+
 # 👋 Olá, eu sou Vinicius!  
 
 🎓 Estudante de **Defesa Cibernética** na FIAP  
@@ -21,11 +32,6 @@
 ## 📊 Estatísticas do GitHub
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Viniciusp12&show_icons=true&theme=radical)  
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusp12&layout=compact&theme=radical)  
-
----
-
-## 🔥 Streak de Contribuições
-![Streak](https://streak-stats.demolab.com?user=Viniciusp12&theme=radical&date_format=j%20M%5B%20Y%5D)  
 
 ---
 
