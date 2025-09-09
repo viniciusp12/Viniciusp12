@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Viniciusp12&theme=highcontrast&hide_border=true" 
-       alt="Streak de contribuições"
        style="background-image: url('imagens/wp6992751-malware-wallpapers.jpg'); 
               background-size: cover; 
               border-radius: 10px; 
