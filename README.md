@@ -1,16 +1,20 @@
 # 👋 Olá, eu sou Vinicius!  
 
-💻 Desenvolvedor apaixonado por tecnologia, automação e cibersegurança.  
-📚 Sempre estudando novas ferramentas e explorando o mundo do código.  
+🎓 Estudante de **Defesa Cibernética** na FIAP  
+🛡️ Apaixonado pela área de **Cibersegurança**  
+🖥️ Atualmente desenvolvendo um **Anti-Vírus baseado em comportamento** focado em detecção de malware  
+🔍 Tenho interesse em **engenharia reversa**, para entender o funcionamento interno de ameaças digitais  
+⚡ Trabalho com **Hardware Hacking**, minha área principal de atuação profissional  
+🐍 Experiência prática com **Python**, **C++**, **Linux** e **Máquinas Virtuais (VMs)**  
 
 ---
 
 ## 🚀 Tecnologias que uso no dia a dia:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ---
 
